@@ -1,3 +1,3 @@
-# Chronic_kidney_disease
-Prediciton of Chronic Kidney Diseases using Machine Learning Algorithms.
- Using Artifical Intelligence we can use previous patient data to sucessfully predict the possibilty of chronic kidney disease in new patients
+# Chronic Kidney Disease Prediction using ANN
+
+Early detection and characterization are considered to be critical factors in the management and control of chronic kidney disease. The use of efficient data mining and machine learning techniques is shown to reveal and extract hidden information from clinical and laboratory patient data, which can be helpful to assist physicians in maximizing accuracy for identification of disease severity stage. For this  project we have made use of ANN for building a prediction model for CKD detection. We show that feature selection approach which filters out less important attributes is well suited for chronic kidney disease prediction.This system can detect chronic condition of kidney disease based on several features with an accuracy of 95%. The dataset has been collected from UCI Machine Learning Repository. 
